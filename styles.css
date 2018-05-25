@@ -1,4 +1,9 @@
-.format {
-  height: 100px;
-  width: 100px;
+
+.header{
+  background-color: #0F7292;
+  color: white;
+}
+
+.name{
+  color: #0F7292;
 }
