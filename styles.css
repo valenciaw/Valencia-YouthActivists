@@ -5,11 +5,11 @@
 }
 
 .name{
-  color: #0F7292;
+  color: #a30087;
 }
 
 .young{
-  border:4px dashed grey ;
+  border:1px solid grey ;
   background-color: white;
   padding:2px;
   margin: 5px;
@@ -17,4 +17,12 @@
 
 .young:hover{
   filter:drop-shadow(8px 8px 10px gray);
+}
+
+.large{
+  height: 100%;
+}
+
+.back{
+  color: #ff5e17;
 }
