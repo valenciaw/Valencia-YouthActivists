@@ -3,6 +3,7 @@ var youth_data = {
    id: "Celeste_Aguilar",
    name: "Celeste Aguilar",
    age: 16,
+   class: "backcolor1",
    location: "Washington, D.C",
    imageURL: "youthpics/image1.png",
    twitter: "",
@@ -12,6 +13,7 @@ var youth_data = {
    id: "Hamdia_Ahmed",
    name: "Hamdia Ahmed",
    age: 20,
+   class: "backcolor2",
    location: "Portalnd, Maine",
    imageURL: "youthpics/image2.png",
    twitter: "https://twitter.com/hamdia_ahmed",
@@ -22,6 +24,7 @@ var youth_data = {
    id: "Ziad_Ahmed",
    name: "Ziad Ahmed",
    age: 19,
+   class: "backcolor3",
    location: "Princeton, NJ, Yale University",
    imageURL: "youthpics/image3.png",
    twitter: "",
@@ -33,6 +36,7 @@ var youth_data = {
    id: "Santos_Amaya_Guevera",
    name: "Santos Amaya Guevara",
    age: 16,
+   class: "backcolor1",
    location: "Washington, D.C",
    imageURL: "youthpics/image4.png",
    twitter: "",
@@ -43,6 +47,7 @@ var youth_data = {
    id: "Anya_Andrews",
    name: "Anya Andrews",
    age: 18,
+   class: "backcolor2",
    location: "Los Angeles, California",
    imageURL: "youthpics/image5.png",
    twitter: "",
@@ -53,6 +58,7 @@ var youth_data = {
    id: "Seun_Babalola",
    name: "Seun Babalola",
    age: 20,
+   class: "backcolor3",
    location: "Bronx, N.Y., Penn State ",
    imageURL: "youthpics/image6.png",
    twitter: "http://www.twitter.com/seuntheactivist",
@@ -62,6 +68,7 @@ var youth_data = {
    id: "Mari_Copeny",
    name: "Mari Copeny",
    age: 10,
+   class: "backcolor1",
    location: "Flint, MI",
    imageURL: "youthpics/image7.png",
    twitter: "https://twitter.com/littlemissflint",
@@ -72,6 +79,7 @@ var youth_data = {
    id: "Grace_Dolan_Sandrino",
    name: "Grace Dolan-Sandros",
    age: 17,
+   class: "backcolor2",
    location: "Washington, D.C",
    imageURL: "youthpics/image8.png",
    twitter: "http://www.twitter.com/graceadvocates",
@@ -82,6 +90,7 @@ var youth_data = {
    id: "Katie_Eder",
    name: "Katie Eder",
    age: 18,
+   class: "backcolor3",
    location: "Shorewood, WI",
    imageURL: "youthpics/image9.png",
    twitter: "https://twitter.com/katie_eder",
@@ -91,6 +100,7 @@ var youth_data = {
    id: "Nikhil_Goyal",
    name: "Nikhil Goyal",
    age: 22,
+   class: "backcolor1",
    location: "Long Island, NY",
    imageURL: "youthpics/image10.png",
    twitter: "https://twitter.com/nikhilgoya_l",
@@ -101,6 +111,7 @@ var youth_data = {
    id: "Shawn_Goyal",
    name: "Shawn Goyal",
    age: 16,
+   class: "backcolor2",
    location: "Birmingham, AL",
    imageURL: "youthpics/image11.png",
    twitter: "",
@@ -111,6 +122,7 @@ var youth_data = {
    id: "Merrit_Jones",
    name: "Merrit Jones",
    age: 20,
+   class: "backcolor3",
    location: "Columbia, SC",
    imageURL: "youthpics/image12.png",
    twitter: "http://www.twitter.com/merritjones",
@@ -121,6 +133,7 @@ var youth_data = {
    id: "Brittany_King",
    name: "Brittany King",
    age: 28,
+   class: "backcolor1",
    location: "Columbus, IN",
    imageURL: "youthpics/image13.png",
    twitter: "",
@@ -131,6 +144,7 @@ var youth_data = {
    id: "Clifton_Kinnie",
    name: "Clifton Kinnie",
    age: 21,
+   class: "backcolor2",
    location: "St. Louis, Missouri",
    imageURL: "youthpics/image14.png",
    twitter: "https://twitter.com/CliftonKinnie",
@@ -141,6 +155,7 @@ var youth_data = {
    id: "Tiffany_Dena_Loftin",
    name: "Tiffany Dena Loftin",
    age: 28,
+   class: "backcolor3",
    location: "Washington, D.C",
    imageURL: "youthpics/image15.png",
    twitter: "https://twitter.com/TiffanyDLoftin",
@@ -152,6 +167,7 @@ var youth_data = {
    id: "Sara_Mora",
    name: "Sara Mora",
    age: 21,
+   class: "backcolor1",
    location: "Hillside, N.J. ",
    imageURL: "youthpics/image16.png",
    twitter: "https://twitter.com/misssaramora",
@@ -162,6 +178,7 @@ var youth_data = {
    id: "RaeVen_Ridgell",
    name: "RaeVen Ridgell",
    age: 25,
+   class: "backcolor2",
    location: "Indianapolis, IN",
    imageURL: "youthpics/image17.png",
    twitter: "http://www.twitter.com/Dangerouslyrae",
@@ -172,6 +189,7 @@ var youth_data = {
    id: "Courtney_Roberts",
    name: "Courtney Roberts",
    age: 14,
+   class: "backcolor3",
    location: "Nacogdoches, TX",
    imageURL: "youthpics/image18.png",
    twitter: "https://www.instagram.com/everydayblackgirl/",
@@ -182,6 +200,7 @@ var youth_data = {
    id: "Sojourner_Rouco_Crenshaw",
    name: "Sojourner Rouco-Crenshaw",
    age: 16,
+   class: "backcolor1",
    location: "Birmingham, AL",
    imageURL: "youthpics/image19.png",
    twitter: "",
@@ -192,6 +211,7 @@ var youth_data = {
    id: "Giavonni_Williams",
    name: "Giavonni Williams",
    age: "",
+   class: "backcolor2",
    location: "",
    imageURL: "youthpics/image20.png",
    twitter: "http://www.twitter.com/MillionHoodies",
@@ -214,11 +234,13 @@ function getGridTemplate(person){
 
 
   var template = `
-    <div class="hand young" onclick="processClick('${person.id}')" id="${person.id}">
-    <h2 class= "text-center"><b>${person.name}</b></h2>
-    <h3 class= "text-center">${person.location}, ${person.age}</h3>
-    <a class= "text-center" href="https://twitter.com/${person.twitter}">${person.twitter}</a>
+    <div class="hand young ${person.class} text" onclick="processClick('${person.id}')" id="${person.id}">
+    <h3 class= "text-center text"><b>${person.name}</b></h3>
     <img  class="img-fluid text-center" src="${person.imageURL}" alt="${person.name}">
+
+    <h4 class= "text-center">${person.location}, ${person.age}</h4>
+    <a class= "text-center" href="https://twitter.com/${person.twitter}">${person.twitter}</a>
+
     </div>
   `
   return template
