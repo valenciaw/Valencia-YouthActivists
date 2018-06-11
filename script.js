@@ -239,7 +239,7 @@ function getGridTemplate(person){
     <img  class="img-fluid text-center" src="${person.imageURL}" alt="${person.name}">
 
     <h4 class= "text-center">${person.location}, ${person.age}</h4>
-    <a class= "text-center" href="https://twitter.com/${person.twitter}">${person.twitter}</a>
+    <a class= "text-center" href="${person.twitter}"> <img src="youthpics/twitter.png" height="25px" width="25px"> </a>
 
     </div>
   `
