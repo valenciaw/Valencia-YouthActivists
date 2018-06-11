@@ -3,6 +3,8 @@ var youth_data = {
    id: "Celeste_Aguilar",
    name: "Celeste Aguilar",
    age: 16,
+   likes: 0,
+   currLike: "false",
    class: "backcolor1",
    location: "Washington, D.C",
    imageURL: "youthpics/image1.png",
@@ -13,6 +15,8 @@ var youth_data = {
    id: "Hamdia_Ahmed",
    name: "Hamdia Ahmed",
    age: 20,
+   likes:0,
+   currLike: "false",
    class: "backcolor2",
    location: "Portalnd, Maine",
    imageURL: "youthpics/image2.png",
@@ -24,6 +28,8 @@ var youth_data = {
    id: "Ziad_Ahmed",
    name: "Ziad Ahmed",
    age: 19,
+   likes:0,
+   currLike: "false",
    class: "backcolor3",
    location: "Princeton, NJ, Yale University",
    imageURL: "youthpics/image3.png",
@@ -36,6 +42,8 @@ var youth_data = {
    id: "Santos_Amaya_Guevera",
    name: "Santos Amaya Guevara",
    age: 16,
+   likes: 0,
+   currLike: "false",
    class: "backcolor1",
    location: "Washington, D.C",
    imageURL: "youthpics/image4.png",
@@ -47,6 +55,8 @@ var youth_data = {
    id: "Anya_Andrews",
    name: "Anya Andrews",
    age: 18,
+   likes:0,
+   currLike: "false",
    class: "backcolor2",
    location: "Los Angeles, California",
    imageURL: "youthpics/image5.png",
@@ -58,6 +68,8 @@ var youth_data = {
    id: "Seun_Babalola",
    name: "Seun Babalola",
    age: 20,
+   likes:0,
+   currLike: "false",
    class: "backcolor3",
    location: "Bronx, N.Y., Penn State ",
    imageURL: "youthpics/image6.png",
@@ -68,6 +80,8 @@ var youth_data = {
    id: "Mari_Copeny",
    name: "Mari Copeny",
    age: 10,
+   likes:0,
+   currLike: "false",
    class: "backcolor1",
    location: "Flint, MI",
    imageURL: "youthpics/image7.png",
@@ -79,6 +93,8 @@ var youth_data = {
    id: "Grace_Dolan_Sandrino",
    name: "Grace Dolan-Sandros",
    age: 17,
+   likes: 0,
+   currLike: "false",
    class: "backcolor2",
    location: "Washington, D.C",
    imageURL: "youthpics/image8.png",
@@ -90,6 +106,8 @@ var youth_data = {
    id: "Katie_Eder",
    name: "Katie Eder",
    age: 18,
+   likes: 0,
+   currLike: "false",
    class: "backcolor3",
    location: "Shorewood, WI",
    imageURL: "youthpics/image9.png",
@@ -100,6 +118,8 @@ var youth_data = {
    id: "Nikhil_Goyal",
    name: "Nikhil Goyal",
    age: 22,
+   likes: 0,
+   currLike: "false",
    class: "backcolor1",
    location: "Long Island, NY",
    imageURL: "youthpics/image10.png",
@@ -111,6 +131,8 @@ var youth_data = {
    id: "Shawn_Goyal",
    name: "Shawn Goyal",
    age: 16,
+   likes: 0,
+   currLike: "false",
    class: "backcolor2",
    location: "Birmingham, AL",
    imageURL: "youthpics/image11.png",
@@ -122,6 +144,8 @@ var youth_data = {
    id: "Merrit_Jones",
    name: "Merrit Jones",
    age: 20,
+   likes: 0,
+   currLike: "false",
    class: "backcolor3",
    location: "Columbia, SC",
    imageURL: "youthpics/image12.png",
@@ -133,6 +157,8 @@ var youth_data = {
    id: "Brittany_King",
    name: "Brittany King",
    age: 28,
+   likes: 0,
+   currLike: "false",
    class: "backcolor1",
    location: "Columbus, IN",
    imageURL: "youthpics/image13.png",
@@ -144,6 +170,8 @@ var youth_data = {
    id: "Clifton_Kinnie",
    name: "Clifton Kinnie",
    age: 21,
+   likes: 0,
+   currLike: "false",
    class: "backcolor2",
    location: "St. Louis, Missouri",
    imageURL: "youthpics/image14.png",
@@ -155,6 +183,8 @@ var youth_data = {
    id: "Tiffany_Dena_Loftin",
    name: "Tiffany Dena Loftin",
    age: 28,
+   likes: 0,
+   currLike: "false",
    class: "backcolor3",
    location: "Washington, D.C",
    imageURL: "youthpics/image15.png",
@@ -167,6 +197,8 @@ var youth_data = {
    id: "Sara_Mora",
    name: "Sara Mora",
    age: 21,
+   likes: 0,
+   currLike: "false",
    class: "backcolor1",
    location: "Hillside, N.J. ",
    imageURL: "youthpics/image16.png",
@@ -178,6 +210,8 @@ var youth_data = {
    id: "RaeVen_Ridgell",
    name: "RaeVen Ridgell",
    age: 25,
+   likes: 0,
+   currLike: "false",
    class: "backcolor2",
    location: "Indianapolis, IN",
    imageURL: "youthpics/image17.png",
@@ -189,6 +223,8 @@ var youth_data = {
    id: "Courtney_Roberts",
    name: "Courtney Roberts",
    age: 14,
+   likes: 0,
+   currLike: "false",
    class: "backcolor3",
    location: "Nacogdoches, TX",
    imageURL: "youthpics/image18.png",
@@ -200,6 +236,8 @@ var youth_data = {
    id: "Sojourner_Rouco_Crenshaw",
    name: "Sojourner Rouco-Crenshaw",
    age: 16,
+   likes: 0,
+   currLike: "false",
    class: "backcolor1",
    location: "Birmingham, AL",
    imageURL: "youthpics/image19.png",
@@ -211,6 +249,8 @@ var youth_data = {
    id: "Giavonni_Williams",
    name: "Giavonni Williams",
    age: "",
+   likes: 0,
+   currLike: "false",
    class: "backcolor2",
    location: "",
    imageURL: "youthpics/image20.png",
@@ -227,6 +267,7 @@ function processClick(id){
   document.getElementById('profile').hidden = false
 
   document.getElementById("profile").innerHTML = getProfileTemplate( youth_data[id] )
+
  console.log(youth_data[id])
 }
 
@@ -258,6 +299,7 @@ function getProfileTemplate(person){
       <p class="text-center">
     ${person.text}
       </p>
+      <img src="youthpics/empty.png" id="icon" data-like='${person.currLike}' onclick="updateLikes('${person.id}')"> <p id="counter"> ${person.likes}</p>
       <br/>
       <span class="hand back" onclick="goBack()"><h4>BACK</h4></span>
 
@@ -314,3 +356,25 @@ document.getElementById("person-18").innerHTML = getGridTemplate(youth_data.Cour
 document.getElementById("person-19").innerHTML = getGridTemplate(youth_data.Sojourner_Rouco_Crenshaw)
 
 document.getElementById("person-20").innerHTML = getGridTemplate(youth_data.Giavonni_Williams)
+
+
+function updateLikes(personId){
+  var icon = document.getElementById('icon');
+  var counter = document.getElementById('counter');
+
+  if (icon.dataset.like === "false"){
+     youth_data[personId].likes = youth_data[personId].likes + 1;
+    counter.innerHTML =  youth_data[personId].likes;
+    icon.src = "youthpics/fill.png";
+    icon.dataset.like = "true";
+    youth_data[personId].currLike = "true"
+  }else {
+
+    youth_data[personId].likes = youth_data[personId].likes - 1;
+    icon.src = "youthpics/empty.png";
+    counter.innerHTML = youth_data[personId].likes;
+    icon.dataset.like = "false";
+    youth_data[personId].currLike = "false"
+
+  }
+}
