@@ -4,7 +4,9 @@ var youth_data = {
    name: "Celeste Aguilar",
    age: 16,
    likes: 0,
+   dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor1",
    location: "Washington, D.C",
    imageURL: "youthpics/image1.png",
@@ -16,7 +18,9 @@ var youth_data = {
    name: "Hamdia Ahmed",
    age: 20,
    likes:0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor2",
    location: "Portalnd, Maine",
    imageURL: "youthpics/image2.png",
@@ -29,7 +33,9 @@ var youth_data = {
    name: "Ziad Ahmed",
    age: 19,
    likes:0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor3",
    location: "Princeton, NJ, Yale University",
    imageURL: "youthpics/image3.png",
@@ -43,7 +49,9 @@ var youth_data = {
    name: "Santos Amaya Guevara",
    age: 16,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor1",
    location: "Washington, D.C",
    imageURL: "youthpics/image4.png",
@@ -56,7 +64,9 @@ var youth_data = {
    name: "Anya Andrews",
    age: 18,
    likes:0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor2",
    location: "Los Angeles, California",
    imageURL: "youthpics/image5.png",
@@ -69,7 +79,9 @@ var youth_data = {
    name: "Seun Babalola",
    age: 20,
    likes:0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor3",
    location: "Bronx, N.Y., Penn State ",
    imageURL: "youthpics/image6.png",
@@ -81,7 +93,9 @@ var youth_data = {
    name: "Mari Copeny",
    age: 10,
    likes:0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor1",
    location: "Flint, MI",
    imageURL: "youthpics/image7.png",
@@ -94,7 +108,9 @@ var youth_data = {
    name: "Grace Dolan-Sandros",
    age: 17,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor2",
    location: "Washington, D.C",
    imageURL: "youthpics/image8.png",
@@ -107,7 +123,9 @@ var youth_data = {
    name: "Katie Eder",
    age: 18,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor3",
    location: "Shorewood, WI",
    imageURL: "youthpics/image9.png",
@@ -119,7 +137,9 @@ var youth_data = {
    name: "Nikhil Goyal",
    age: 22,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor1",
    location: "Long Island, NY",
    imageURL: "youthpics/image10.png",
@@ -132,7 +152,9 @@ var youth_data = {
    name: "Shawn Goyal",
    age: 16,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor2",
    location: "Birmingham, AL",
    imageURL: "youthpics/image11.png",
@@ -145,7 +167,9 @@ var youth_data = {
    name: "Merrit Jones",
    age: 20,
    likes: 0,
+   dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor3",
    location: "Columbia, SC",
    imageURL: "youthpics/image12.png",
@@ -158,7 +182,9 @@ var youth_data = {
    name: "Brittany King",
    age: 28,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor1",
    location: "Columbus, IN",
    imageURL: "youthpics/image13.png",
@@ -171,7 +197,9 @@ var youth_data = {
    name: "Clifton Kinnie",
    age: 21,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor2",
    location: "St. Louis, Missouri",
    imageURL: "youthpics/image14.png",
@@ -184,7 +212,9 @@ var youth_data = {
    name: "Tiffany Dena Loftin",
    age: 28,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor3",
    location: "Washington, D.C",
    imageURL: "youthpics/image15.png",
@@ -198,7 +228,9 @@ var youth_data = {
    name: "Sara Mora",
    age: 21,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor1",
    location: "Hillside, N.J. ",
    imageURL: "youthpics/image16.png",
@@ -211,7 +243,9 @@ var youth_data = {
    name: "RaeVen Ridgell",
    age: 25,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor2",
    location: "Indianapolis, IN",
    imageURL: "youthpics/image17.png",
@@ -224,7 +258,9 @@ var youth_data = {
    name: "Courtney Roberts",
    age: 14,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor3",
    location: "Nacogdoches, TX",
    imageURL: "youthpics/image18.png",
@@ -237,7 +273,9 @@ var youth_data = {
    name: "Sojourner Rouco-Crenshaw",
    age: 16,
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor1",
    location: "Birmingham, AL",
    imageURL: "youthpics/image19.png",
@@ -250,7 +288,9 @@ var youth_data = {
    name: "Giavonni Williams",
    age: "",
    likes: 0,
+    dislikes: 0,
    currLike: "false",
+   currDislike: "false",
    class: "backcolor2",
    location: "",
    imageURL: "youthpics/image20.png",
@@ -299,7 +339,17 @@ function getProfileTemplate(person){
       <p class="text-center">
     ${person.text}
       </p>
-      <img src="youthpics/empty.png" id="icon" data-like='${person.currLike}' onclick="updateLikes('${person.id}')"> <p id="counter"> ${person.likes}</p>
+      <div class="row">
+      <div class="col-12 col-sm-3"></div>
+      <div class="col-12 col-sm-3">
+      <img src="youthpics/thumbup.png" class="thumb" id="icon" data-like='${person.currLike}' onclick="updateLikes('${person.id}')"> <p id="counter"> ${person.likes}</p>
+      </div>
+
+      <div class="col-12 col-sm-3">
+      <img src="youthpics/thumbdown.png" class="thumb" id="icon2" data-dislike='${person.currDislike}' onclick="updateDislikes('${person.id}')"> <p id="counter2"> ${person.dislikes}</p>
+        <div class="col-12 col-sm-3"></div>
+      </div>
+      </div>
       <br/>
       <span class="hand back" onclick="goBack()"><h4>BACK</h4></span>
 
@@ -365,16 +415,37 @@ function updateLikes(personId){
   if (icon.dataset.like === "false"){
      youth_data[personId].likes = youth_data[personId].likes + 1;
     counter.innerHTML =  youth_data[personId].likes;
-    icon.src = "youthpics/fill.png";
+    icon.src = "youthpics/thumbupfill.png";
     icon.dataset.like = "true";
     youth_data[personId].currLike = "true"
   }else {
 
     youth_data[personId].likes = youth_data[personId].likes - 1;
-    icon.src = "youthpics/empty.png";
+    icon.src = "youthpics/thumbup.png";
     counter.innerHTML = youth_data[personId].likes;
     icon.dataset.like = "false";
     youth_data[personId].currLike = "false"
+
+  }
+}
+
+function updateDislikes(personId){
+  var icon2 = document.getElementById('icon2');
+  var counter2 = document.getElementById('counter2');
+
+  if (icon2.dataset.dislike === "false"){
+     youth_data[personId].dislikes = youth_data[personId].dislikes + 1;
+    counter2.innerHTML =  youth_data[personId].dislikes;
+    icon2.src = "youthpics/thumbdownfill.png";
+    icon2.dataset.dislike = "true";
+    youth_data[personId].currDislike = "true"
+  }else {
+
+    youth_data[personId].dislikes = youth_data[personId].dislikes - 1;
+    icon2.src = "youthpics/thumbdown.png";
+    counter2.innerHTML = youth_data[personId].dislikes;
+    icon2.dataset.dislike = "false";
+    youth_data[personId].currDislike = "false"
 
   }
 }

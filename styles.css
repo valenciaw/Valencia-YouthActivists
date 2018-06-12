@@ -41,3 +41,22 @@
 .text{
   color: white;
 }
+
+.fblogo{
+  padding-top: 10px;
+}
+
+.thumb{
+  height: 100px;
+  width: 100px;
+}
+
+#counter{
+  color: green;
+  height: 50px;
+}
+
+#counter2{
+  color: red;
+  height: 50px;
+}
